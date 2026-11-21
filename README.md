@@ -2,8 +2,8 @@
 # R package template
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/rpkgs/qinyibo/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/rpkgs/qinyibo/actions/workflows/R-CMD-check.yaml)
-[![codecov](https://codecov.io/gh/rpkgs/qinyibo/branch/master/graph/badge.svg)](https://app.codecov.io/gh/rpkgs/qinyibo)
+[![R-CMD-check](https://github.com/Yibo-Qin/qinyibo/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Yibo-Qin/qinyibo/actions/workflows/R-CMD-check.yaml)
+[![codecov](https://codecov.io/gh/Yibo-Qin/qinyibo/branch/master/graph/badge.svg)](https://app.codecov.io/gh/Yibo-Qin/qinyibo)
 <!-- [![CRAN](http://www.r-pkg.org/badges/version/qinyibo)](https://cran.r-project.org/package=qinyibo) -->
 <!-- [![total](http://cranlogs.r-pkg.org/badges/grand-total/qinyibo)](https://www.rpackages.io/package/qinyibo) -->
 <!-- [![monthly](http://cranlogs.r-pkg.org/badges/qinyibo)](https://www.rpackages.io/package/qinyibo) -->
@@ -16,7 +16,7 @@ The goal of `qinyibo` is to ...
 You can install the development version of `qinyibo` like so:
 
 ``` r
-remotes::install_github("rpkgs/qinyibo")
+remotes::install_github("Yibo-Qin/qinyibo")
 ```
 
 ## Example
