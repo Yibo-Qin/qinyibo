@@ -24,6 +24,6 @@ remotes::install_github("rpkgs/qinyibo")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(rpkg.template)
+library(qinyibo)
 ## basic example code
 ```
