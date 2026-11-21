@@ -2,21 +2,21 @@
 # R package template
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/rpkgs/rpkg.template/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/rpkgs/rpkg.template/actions/workflows/R-CMD-check.yaml)
-[![codecov](https://codecov.io/gh/rpkgs/rpkg.template/branch/master/graph/badge.svg)](https://app.codecov.io/gh/rpkgs/rpkg.template)
-<!-- [![CRAN](http://www.r-pkg.org/badges/version/rpkg.template)](https://cran.r-project.org/package=rpkg.template) -->
-<!-- [![total](http://cranlogs.r-pkg.org/badges/grand-total/rpkg.template)](https://www.rpackages.io/package/rpkg.template) -->
-<!-- [![monthly](http://cranlogs.r-pkg.org/badges/rpkg.template)](https://www.rpackages.io/package/rpkg.template) -->
+[![R-CMD-check](https://github.com/rpkgs/qinyibo/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/rpkgs/qinyibo/actions/workflows/R-CMD-check.yaml)
+[![codecov](https://codecov.io/gh/rpkgs/qinyibo/branch/master/graph/badge.svg)](https://app.codecov.io/gh/rpkgs/qinyibo)
+<!-- [![CRAN](http://www.r-pkg.org/badges/version/qinyibo)](https://cran.r-project.org/package=qinyibo) -->
+<!-- [![total](http://cranlogs.r-pkg.org/badges/grand-total/qinyibo)](https://www.rpackages.io/package/qinyibo) -->
+<!-- [![monthly](http://cranlogs.r-pkg.org/badges/qinyibo)](https://www.rpackages.io/package/qinyibo) -->
 <!-- badges: end -->
 
-The goal of `rpkg.template` is to ...
+The goal of `qinyibo` is to ...
 
 ## Installation
 
-You can install the development version of `rpkg.template` like so:
+You can install the development version of `qinyibo` like so:
 
 ``` r
-remotes::install_github("rpkgs/rpkg.template")
+remotes::install_github("rpkgs/qinyibo")
 ```
 
 ## Example
